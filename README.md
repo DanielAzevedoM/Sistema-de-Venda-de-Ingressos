@@ -59,8 +59,8 @@ O projeto é composto por três classes principais:
    - Certifique-se de ter o Java instalado no seu sistema.
 
 2. **Compile o programa Java**
-    javac App.java
+   $ javac App.java
 
 3. **Execute o programa:**
-    java App
+    $ java App
 
