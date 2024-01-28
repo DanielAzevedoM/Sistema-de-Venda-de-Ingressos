@@ -58,9 +58,13 @@ O projeto é composto por três classes principais:
 1. **Requisitos**
    - Certifique-se de ter o Java instalado no seu sistema.
 
-2. **Compile o programa Java**
-   $ javac App.java
+```bash
 
-3. **Execute o programa:**
-    $ java App
+# Compile o programa Java
+$ javac App.java
+
+# Execute o programa:
+$ java App
+
+```
 
